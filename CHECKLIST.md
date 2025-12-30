@@ -66,9 +66,12 @@ A comprehensive, evidence-based checklist for the diagnosis of Addison's disease
 
 ### Special Considerations
 - [ ] **Patients on estrogen therapy** (including oral contraceptives, hormone replacement):
-  - Estrogen increases cortisol-binding globulin (CBG), raising total cortisol measurements.
-  - Consider measuring **free cortisol** (equilibrium dialysis) or **salivary cortisol** for accurate interpretation.
-  - Alternatively, discontinue estrogen for 4-6 weeks before testing if clinically safe.
+  - Estrogen increases cortisol-binding globulin (CBG), leading to elevated total cortisol measurements that may falsely appear normal.
+  - **Recommendations:**
+    - If available, measure **free cortisol** by equilibrium dialysis (gold standard) or **salivary cortisol** (reflects free cortisol and is CBG-independent).
+    - If only total cortisol is measured, consider using a lower cutoff (e.g., peak cortisol ≥ 15 µg/dL [414 nmol/L] may be sufficient) or interpret with caution.
+    - Discontinuation of estrogen for 4‑6 weeks before testing (if clinically safe) can eliminate CBG interference.
+  - **Note:** The same considerations apply to other high‑CBG states (e.g., pregnancy, hepatitis, certain medications).
 - [ ] **Critical illness:** Standard cut-offs may not apply; use clinical context.
 - [ ] **Pregnancy:** Reference ranges differ; consult pregnancy-specific guidelines.
 
@@ -91,7 +94,7 @@ A comprehensive, evidence-based checklist for the diagnosis of Addison's disease
 - [ ] **Adrenal imaging** (CT abdomen with adrenal protocol):
   - Autoimmune adrenalitis: small, atrophic adrenals
   - Tuberculosis, fungal infection, metastases: enlarged, calcified, or heterogeneous adrenals
-- [ ] **Consider whole-body FDG‑PET** if malignancy suspected
+  - **Consider whole-body FDG‑PET** if malignancy suspected
 
 ### Genetic Causes
 - [ ] **Adrenoleukodystrophy** (especially in males):
